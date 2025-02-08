@@ -35,6 +35,7 @@ jupyter notebook
 ```
 
 Open the notebook file (`project01.ipynb`) and execute the cells in order.
+Ensure that you replace the dataset paths in the code with the correct paths on your computer before running.
 
 ## Output
 
