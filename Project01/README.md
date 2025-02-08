@@ -35,11 +35,12 @@ jupyter notebook
 ```
 
 Open the notebook file (`project01.ipynb`) and execute the cells in order.
+
 Ensure that you replace the dataset paths in the code with the correct paths on your computer before running.
 
 ## Output
 
 - The program will generate statistical summaries and visualizations.
 - Code results will be displayed in the notebook file (`project01.ipynb`).
-- A document (PDF) with  responses will be generated: `project01_answer.pdf`
+- A separate document (`project01_answer.pdf`) will include written responses to the project assignment.
 
